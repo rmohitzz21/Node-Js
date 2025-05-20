@@ -6,8 +6,13 @@ GET/users/1  - Get the User With Id 1
 GET/users/2 - Get The User With ID 2
 
 
+Dynamic path parameters               \/
+GET /api/users/:id                   \/
+
+
+
 POST/ users - Create new User 
-
 PATCH /users/1 - Edit The user With Id 1
-
 DELETE / users/1 - Delete the user With Id 1
+
+
