@@ -16,3 +16,10 @@ PATCH /users/1 - Edit The user With Id 1
 DELETE / users/1 - Delete the user With Id 1
 
 
+
+
+
+
+Schema -- Define Structure
+    Schema - Model
+    Using Model We DO CRUD
